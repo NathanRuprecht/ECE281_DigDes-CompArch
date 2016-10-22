@@ -1,0 +1,5 @@
+ECE281_CE4
+==========
+
+#Analysis 
+I'm a fan of this assembly language.  A ton better than doing VHDL.  It's a little tricky.  Function A was no problem and I even got it within the target amount of lines.  The others actually made me think.  To know function A worked, it was just a matter of doing it single step at a time and watching the program run.  Since I saw the required values being stored in the required locations, I knew the program worked correctly.  I did the same kind of concept with function B.  Where I had my code and just took it one step at a time running it and seeing the values change.  Unfortunately, I did not get function B in the number of target lines.  Function C was the hardest of the 3 for me.  Getting the ports to show one less than the previous was no problem, the hard part was getting it to loop.  For some reason, I didn't know the best way to set up my program and where the loop should start.  Finding out how I want to loop is what took up a majority of the time for function C.  I definitely did not make the target program end, but I'm just happy that I got full functionality of my CE4.
