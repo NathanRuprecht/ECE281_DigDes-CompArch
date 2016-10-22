@@ -1,0 +1,13 @@
+MIPS Code
+addi $S0, $0, 44  	##stores int 44 in register $S0
+addi $S1, $0, -37	##stores int -37 in register $S1
+addi $S2, $S1, $S0	##adds $S0 and $S1 and stores answer in $S2
+				##44 - 37 = 7 -> $S2
+sw $S2, 0x54($0)	##stores $S2 into the hexidecimal address of 0x54
+
+
+MIPS Code converted in Hex
+0x2010002C
+0x2011FFDB
+0x02119020
+0xAC120054
