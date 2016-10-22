@@ -2,4 +2,4 @@
 
 ECE281 - Digital Design and Computer Architecture
 
-Taken at USAFA during Spring 2014.  Files reorganized into folders on 22 October 2016.
+Taken at USAFA during Spring 2014.  Files unchanged, just reorganized on 22 October 2016.
